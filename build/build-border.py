@@ -65,7 +65,7 @@ ROOT = HERE.parent
 DATA = ROOT / "data"
 CACHE = HERE / ".cache"
 OSM_API = "https://api.openstreetmap.org/api/0.6"
-AGENT = "india-border-build/1 (https://paperdrop.io)"
+AGENT = "india-border-overlay/1 (https://paperdrop.io)"
 
 INDIA = 304716  # India, admin_level 2: the ground India controls
 # India's claims it doesn't control (all of them are in India's official map).

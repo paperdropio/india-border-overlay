@@ -1,4 +1,4 @@
-# india-border
+# india-border-overlay
 
 India's border as India's official map draws it, as GeoJSON, with the code
 that builds it and a script that checks it.
