@@ -1,0 +1,16 @@
+The files in this directory (india-*.geojson, india-zones.json) are a
+Derived Database of OpenStreetMap data, built by Paperdrop Corp.
+
+They are made available under the Open Database License (ODbL) 1.0:
+https://opendatacommons.org/licenses/odbl/1-0/
+
+Attribution: "© OpenStreetMap contributors"
+(https://www.openstreetmap.org/copyright)
+
+If you use these files in a map, credit OpenStreetMap contributors where the
+map is shown. If you change the data and share it, share the changed data
+under the ODbL too. The ODbL applies to the data only. The code in this
+repository outside data/ is under the MIT licence (see ../LICENSE).
+
+Two small parts of the Longju outline follow Natural Earth's India
+point-of-view line, which is in the public domain.

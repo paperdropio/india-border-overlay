@@ -1,0 +1,184 @@
+{
+ "_note": "[longitude, latitude]. inside: must be within India's outline; outside: must be outside it; claimed: in the zones India claims and does not hold (zones file only). zonesOnly: the line-only ring closes through the sea and cannot judge islands or Sri Lanka, so these are tested against the zones outline only.",
+ "inside": {
+  "Tawang": [
+   91.859,
+   27.586
+  ],
+  "Bum La": [
+   91.98,
+   27.72
+  ],
+  "Itanagar": [
+   93.62,
+   27.08
+  ],
+  "Mechuka": [
+   94.12,
+   28.6
+  ],
+  "Anini": [
+   95.9,
+   28.8
+  ],
+  "Kibithu": [
+   97.02,
+   28.28
+  ],
+  "Vijaynagar": [
+   96.98,
+   27.2
+  ],
+  "Longju": [
+   93.4,
+   28.6
+  ],
+  "Leh": [
+   77.58,
+   34.16
+  ],
+  "Galwan": [
+   78.2,
+   34.75
+  ],
+  "Demchok": [
+   79.45,
+   32.7
+  ],
+  "Aksai Chin": [
+   79.5,
+   35.0
+  ],
+  "Aksai Chin north-east": [
+   80.2,
+   35.6
+  ],
+  "Siachen": [
+   77.1,
+   35.45
+  ],
+  "Shaksgam": [
+   76.6,
+   36.0
+  ],
+  "Gilgit": [
+   74.31,
+   35.92
+  ],
+  "Skardu": [
+   75.63,
+   35.3
+  ],
+  "Khunjerab": [
+   75.42,
+   36.85
+  ],
+  "Muzaffarabad": [
+   73.47,
+   34.37
+  ],
+  "Mirpur": [
+   73.75,
+   33.15
+  ],
+  "Indira Col": [
+   76.78,
+   35.6
+  ],
+  "Srinagar": [
+   74.8,
+   34.08
+  ],
+  "Kalapani / Lipulekh": [
+   80.9,
+   30.2
+  ],
+  "Gunji": [
+   80.86,
+   30.18
+  ],
+  "Sikkim": [
+   88.6,
+   27.5
+  ],
+  "Delhi": [
+   77.21,
+   28.61
+  ],
+  "Kanyakumari": [
+   77.54,
+   8.08
+  ],
+  "Port Blair": [
+   92.73,
+   11.62
+  ]
+ },
+ "outside": {
+  "Lhasa": [
+   91.1,
+   29.65
+  ],
+  "Islamabad": [
+   73.05,
+   33.69
+  ],
+  "Peshawar": [
+   71.58,
+   34.0
+  ],
+  "Lahore": [
+   74.35,
+   31.55
+  ],
+  "Kathmandu": [
+   85.32,
+   27.71
+  ],
+  "Dhaka": [
+   90.41,
+   23.81
+  ],
+  "Thimphu": [
+   89.64,
+   27.47
+  ],
+  "Kashgar": [
+   75.99,
+   39.47
+  ],
+  "Hotan": [
+   79.92,
+   37.11
+  ],
+  "Wakhan corridor": [
+   73.5,
+   37.0
+  ],
+  "Colombo": [
+   79.86,
+   6.93
+  ],
+  "Karachi": [
+   67.01,
+   24.86
+  ],
+  "Kabul": [
+   69.17,
+   34.53
+  ]
+ },
+ "claimed": [
+  "Gilgit",
+  "Muzaffarabad",
+  "Skardu",
+  "Mirpur",
+  "Aksai Chin",
+  "Shaksgam",
+  "Longju"
+ ],
+ "zonesOnly": [
+  "Port Blair",
+  "Colombo"
+ ]
+}
